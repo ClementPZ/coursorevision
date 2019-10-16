@@ -1,0 +1,22 @@
+body {
+}
+a {
+  color: black;
+  text-decoration: none;
+  background-color: lightgreen;
+  font-style: italic;
+}
+a:hover {
+  background-color: green;
+}
+.banner {
+  color: white;
+  background-image: url('img/landscape.jpg');
+  background-size: cover;
+  padding: 160px;
+}
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
