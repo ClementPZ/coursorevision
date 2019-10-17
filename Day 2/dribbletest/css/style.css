@@ -3,3 +3,14 @@
 @import url(components/container.css);
 @import url(components/cards.css);
 @import url(components/avatars.css);
+
+body {
+  font-family: helvetica;
+  color: rgba(1,1,1,0.7);
+  background-color: white;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+}
