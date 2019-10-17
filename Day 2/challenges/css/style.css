@@ -1,1 +1,16 @@
 @import url("components/buttons.css");
+
+body {
+  background-color: #e3dac9;
+  font-family: HELVETICA;
+}
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+.container {
+  background-color: white;
+  width: 500px;
+  margin: 40px auto;
+  padding: 40px;
+}
