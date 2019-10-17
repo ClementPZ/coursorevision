@@ -1,4 +1,6 @@
 @import url("components/buttons.css");
+@import url("components/cards.css");
+@import url("components/container.css");
 
 body {
   background-color: #e3dac9;
@@ -8,9 +10,4 @@ a {
   display: inline-block;
   text-decoration: none;
 }
-.container {
-  background-color: white;
-  width: 500px;
-  margin: 40px auto;
-  padding: 40px;
-}
+
