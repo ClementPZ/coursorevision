@@ -1,9 +1,10 @@
 @import url("components/buttons.css");
 @import url("components/cards.css");
 @import url("components/container.css");
+@import url("components/avatar.css");
 
 body {
-  background-color: #e3dac9;
+  background-color: white;
   font-family: HELVETICA;
 }
 a {
