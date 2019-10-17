@@ -1,0 +1,15 @@
+.cards {
+  display: grid;
+  grid-gap: 32px;
+  grid-template: repeat(2, 1fr) / repeat(3, 1fr);
+}
+.card {
+
+}
+.card-image {
+  height: 200px;
+  background-size: cover;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
