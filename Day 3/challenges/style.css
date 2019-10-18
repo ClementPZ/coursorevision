@@ -1,0 +1,9 @@
+.card {
+  padding: 100px;
+  margin: 32px;
+  border: 1px solid lightgrey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 100px;
+}
